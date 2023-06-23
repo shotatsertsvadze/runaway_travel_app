@@ -1,7 +1,7 @@
 {
   "name": "runaway-app",
   "version": "0.1.0",
-  "homepage:" : "https://github.com/shotatsertsvadze/runaway_travel_app",
+  "homepage:" : "https://shotatsertsvadze.github.io/runaway_travel_app",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
